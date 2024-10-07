@@ -14,5 +14,7 @@ When a student selects an option, 'countCorrectAnswers' compare all of their ans
 ### Considerations
 I considered making the background increase in 'greenness' as a student got closer to completing the question. I would have also included a small set of checkmarks as a clearer indicator to colour blind students. However, this would make it easier for a student to focus on 'making the colour greener' or 'making more checkmarks appear' instead of thinking about the question. This made me wonder, why include the changing background colour at all? I would be interested to discuss this in my review.
 
-My understanding of JavaScript is much stronger than my understanding of TypeScript. This 
+My understanding of JavaScript is much stronger than my understanding of TypeScript. This lead me to writing the whole project in JS then converting at the end.
 I did not have time to attempt the extension tasks, though I have placed the question object inside of a larger array which would allow many questions to be asked without any major changes to the code.
+
+Thank you again for sending this project through, I'm looking forward to discussing it with you!
